@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nie zapomnij!</string>
+    <string name="add_reminder_create">Stwórz</string>
+    <string name="add_reminder_db_error">Nie można zapisać powiadomienia</string>
+    <string name="add_reminder_header">Utwórz przypomnienie</string>
+    <string name="add_reminder_text">Treść przypomnienia:</string>
+    <string name="add_reminder_ticker">Pamiętaj!</string>
+    <string name="add_reminder_title">Tytuł przypomnienia:</string>
+    <string name="add_reminder_empty_title">Tytuł nie może być pusty</string>
+
+    <string name="cancel_notification_confirm">Czy chcesz usunąć przypomnienie?</string>
+    <string name="cancel_notification_db_error">Nie można usunąć przypomnienia</string>
+    <string name="cancel_notification_not_found">Nie można znaleźć przypomnienia</string>
+    <string name="cancel_notification_ok">OK</string>
+    <string name="cancel_notification_cancel">Anuluj</string>
+
+    <string name="application_cannot_load">Nie można załadować przypomnień z bazy</string>
+    <string name="icon_link">Ikony stworzone przez <a href="http://www.freepik.com" title="Freepik">Freepik</a> z <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> licencjonowane przez <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons BY 3.0</a></string>
+</resources>
